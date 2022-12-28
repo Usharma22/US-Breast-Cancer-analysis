@@ -1,0 +1,546 @@
+"Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"States"	"States Code"	"Ethnicity"	"Ethnicity Code"	"Race"	"Race Code"	"Sex"	"Sex Code"	Count
+	"Breast"	"26000"	"Alabama"	"01"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	32
+	"Breast"	"26000"	"Alabama"	"01"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	343
+	"Breast"	"26000"	"Alabama"	"01"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	71
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	93
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	446
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	16010
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	157
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	51276
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	460
+	"Breast"	"26000"	"Alabama"	"01"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	419
+	"Breast"	"26000"	"Alaska"	"02"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	198
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1382
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	425
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	198
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	5766
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	53
+	"Breast"	"26000"	"Alaska"	"02"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	19
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	101
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	48
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	62
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	10943
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	89
+	"Breast"	"26000"	"Arizona"	"04"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	175
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1419
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1585
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	2178
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	24
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	66342
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	826
+	"Breast"	"26000"	"Arizona"	"04"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	552
+	"Breast"	"26000"	"Arkansas"	"05"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	23
+	"Breast"	"26000"	"Arkansas"	"05"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	557
+	"Breast"	"26000"	"Arkansas"	"05"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	75
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	269
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	325
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	5027
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	57
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	33706
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	249
+	"Breast"	"26000"	"Arkansas"	"05"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	317
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	236
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	545
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	740
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	85045
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	372
+	"Breast"	"26000"	"California"	"06"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1034
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	2106
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	60258
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	263
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	30940
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	303
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	305305
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	2402
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	3636
+	"Breast"	"26000"	"California"	"06"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Male"	"M"	32
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	166
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	26
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	38
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	6712
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	25
+	"Breast"	"26000"	"Colorado"	"08"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	98
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	201
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1232
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	1969
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	56894
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	407
+	"Breast"	"26000"	"Colorado"	"08"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	647
+	"Breast"	"26000"	"Connecticut"	"09"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	36
+	"Breast"	"26000"	"Connecticut"	"09"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	132
+	"Breast"	"26000"	"Connecticut"	"09"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	3579
+	"Breast"	"26000"	"Connecticut"	"09"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	18
+	"Breast"	"26000"	"Connecticut"	"09"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	345
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	72
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1045
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	4396
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	51
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	51788
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	470
+	"Breast"	"26000"	"Connecticut"	"09"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	340
+	"Breast"	"26000"	"Delaware"	"10"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	33
+	"Breast"	"26000"	"Delaware"	"10"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	292
+	"Breast"	"26000"	"Delaware"	"10"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	56
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	253
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	2592
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	26
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	11264
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	94
+	"Breast"	"26000"	"Delaware"	"10"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	68
+	"Breast"	"26000"	"District of Columbia"	"11"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	34
+	"Breast"	"26000"	"District of Columbia"	"11"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	288
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	21
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	183
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	5634
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	74
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	3072
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	50
+	"Breast"	"26000"	"District of Columbia"	"11"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	200
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	28
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	216
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	1295
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	41191
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	348
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1808
+	"Breast"	"26000"	"Florida"	"12"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Male"	"M"	24
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	371
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	3947
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	33
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	30899
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	377
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	219385
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	2479
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	3656
+	"Breast"	"26000"	"Florida"	"12"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Male"	"M"	43
+	"Breast"	"26000"	"Georgia"	"13"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	60
+	"Breast"	"26000"	"Georgia"	"13"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	292
+	"Breast"	"26000"	"Georgia"	"13"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	2846
+	"Breast"	"26000"	"Georgia"	"13"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	23
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	124
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	2492
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	19
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	35476
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	338
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	87449
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	679
+	"Breast"	"26000"	"Georgia"	"13"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	142
+	"Breast"	"26000"	"Hawaii"	"15"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	495
+	"Breast"	"26000"	"Hawaii"	"15"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	557
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	81
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	14483
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	62
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	163
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	5028
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	54
+	"Breast"	"26000"	"Hawaii"	"15"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	95
+	"Breast"	"26000"	"Idaho"	"16"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	737
+	"Breast"	"26000"	"Idaho"	"16"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	18
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	203
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	196
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	37
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	19283
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	158
+	"Breast"	"26000"	"Idaho"	"16"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	87
+	"Breast"	"26000"	"Indiana"	"18"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	34
+	"Breast"	"26000"	"Indiana"	"18"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1602
+	"Breast"	"26000"	"Indiana"	"18"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	29
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	63
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	693
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	6885
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	77
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	81685
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	632
+	"Breast"	"26000"	"Indiana"	"18"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	340
+	"Breast"	"26000"	"Iowa"	"19"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	495
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	91
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	319
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	681
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	45196
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	338
+	"Breast"	"26000"	"Iowa"	"19"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	77
+	"Breast"	"26000"	"Kentucky"	"21"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	25
+	"Breast"	"26000"	"Kentucky"	"21"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	452
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	27
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	312
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	4270
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	32
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	58585
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	370
+	"Breast"	"26000"	"Kentucky"	"21"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	132
+	"Breast"	"26000"	"Louisiana"	"22"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	69
+	"Breast"	"26000"	"Louisiana"	"22"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1078
+	"Breast"	"26000"	"Louisiana"	"22"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	46
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	93
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	457
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	18833
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	184
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	43040
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	344
+	"Breast"	"26000"	"Louisiana"	"22"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	55
+	"Breast"	"26000"	"Maine"	"23"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	71
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	108
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	118
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	64
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	22540
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	231
+	"Breast"	"26000"	"Maine"	"23"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	62
+	"Breast"	"26000"	"Maryland"	"24"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	91
+	"Breast"	"26000"	"Maryland"	"24"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	184
+	"Breast"	"26000"	"Maryland"	"24"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1572
+	"Breast"	"26000"	"Maryland"	"24"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	391
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	168
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	3113
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	25
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	23959
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	286
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	58680
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	611
+	"Breast"	"26000"	"Maryland"	"24"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	634
+	"Breast"	"26000"	"Michigan"	"26"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	26
+	"Breast"	"26000"	"Michigan"	"26"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	73
+	"Breast"	"26000"	"Michigan"	"26"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1908
+	"Breast"	"26000"	"Michigan"	"26"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	17
+	"Breast"	"26000"	"Michigan"	"26"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	145
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	606
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1859
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	17
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	18024
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	238
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	124638
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	1210
+	"Breast"	"26000"	"Michigan"	"26"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1394
+	"Breast"	"26000"	"Minnesota"	"27"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	18
+	"Breast"	"26000"	"Minnesota"	"27"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	795
+	"Breast"	"26000"	"Minnesota"	"27"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	25
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	544
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1116
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	1817
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	18
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	74575
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	503
+	"Breast"	"26000"	"Minnesota"	"27"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	396
+	"Breast"	"26000"	"Mississippi"	"28"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	158
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	65
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	168
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	11467
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	105
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	22564
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	151
+	"Breast"	"26000"	"Mississippi"	"28"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	19
+	"Breast"	"26000"	"Missouri"	"29"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	31
+	"Breast"	"26000"	"Missouri"	"29"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	755
+	"Breast"	"26000"	"Missouri"	"29"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	95
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	170
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	836
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	9041
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	90
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	79461
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	562
+	"Breast"	"26000"	"Missouri"	"29"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	397
+	"Breast"	"26000"	"Montana"	"30"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	190
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	728
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	82
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	16
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	14519
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	119
+	"Breast"	"26000"	"Montana"	"30"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	45
+	"Breast"	"26000"	"Nebraska"	"31"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	642
+	"Breast"	"26000"	"Nebraska"	"31"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	37
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	135
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	177
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	777
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	24707
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	222
+	"Breast"	"26000"	"Nebraska"	"31"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	112
+	"Breast"	"26000"	"Nevada"	"32"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	25
+	"Breast"	"26000"	"Nevada"	"32"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	24
+	"Breast"	"26000"	"Nevada"	"32"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	2820
+	"Breast"	"26000"	"Nevada"	"32"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	24
+	"Breast"	"26000"	"Nevada"	"32"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	41
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	221
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1943
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	1969
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	28
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	21739
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	229
+	"Breast"	"26000"	"Nevada"	"32"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	260
+	"Breast"	"26000"	"New Hampshire"	"33"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	209
+	"Breast"	"26000"	"New Hampshire"	"33"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	22
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	27
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	197
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	95
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	21870
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	181
+	"Breast"	"26000"	"New Hampshire"	"33"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	92
+	"Breast"	"26000"	"New Jersey"	"34"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	147
+	"Breast"	"26000"	"New Jersey"	"34"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	649
+	"Breast"	"26000"	"New Jersey"	"34"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	11417
+	"Breast"	"26000"	"New Jersey"	"34"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	62
+	"Breast"	"26000"	"New Jersey"	"34"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	373
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7008
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	46
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	16174
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	181
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	106389
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	1020
+	"Breast"	"26000"	"New Jersey"	"34"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	636
+	"Breast"	"26000"	"New Mexico"	"35"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	57
+	"Breast"	"26000"	"New Mexico"	"35"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	22
+	"Breast"	"26000"	"New Mexico"	"35"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	8399
+	"Breast"	"26000"	"New Mexico"	"35"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	56
+	"Breast"	"26000"	"New Mexico"	"35"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	49
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1124
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	267
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	345
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	15933
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	153
+	"Breast"	"26000"	"New Mexico"	"35"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	164
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	252
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	4590
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Male"	"M"	33
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	24522
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	137
+	"Breast"	"26000"	"New York"	"36"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1072
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	14406
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	92
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	39090
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	384
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	218393
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	2103
+	"Breast"	"26000"	"New York"	"36"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1426
+	"Breast"	"26000"	"North Carolina"	"37"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	19
+	"Breast"	"26000"	"North Carolina"	"37"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	149
+	"Breast"	"26000"	"North Carolina"	"37"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	2353
+	"Breast"	"26000"	"North Carolina"	"37"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	415
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1022
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1543
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	28573
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	256
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	110569
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	779
+	"Breast"	"26000"	"North Carolina"	"37"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	768
+	"Breast"	"26000"	"North Dakota"	"38"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	23
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	370
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	37
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	32
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	9398
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	85
+	"Breast"	"26000"	"North Dakota"	"38"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	29
+	"Breast"	"26000"	"Ohio"	"39"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	21
+	"Breast"	"26000"	"Ohio"	"39"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	41
+	"Breast"	"26000"	"Ohio"	"39"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1116
+	"Breast"	"26000"	"Ohio"	"39"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	230
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	123
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1502
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	18202
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	166
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	155739
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	1197
+	"Breast"	"26000"	"Ohio"	"39"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1268
+	"Breast"	"26000"	"Oklahoma"	"40"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	36
+	"Breast"	"26000"	"Oklahoma"	"40"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	25
+	"Breast"	"26000"	"Oklahoma"	"40"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	27
+	"Breast"	"26000"	"Oklahoma"	"40"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1162
+	"Breast"	"26000"	"Oklahoma"	"40"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	201
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	4447
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	25
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	605
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	3295
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	40
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	43467
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	350
+	"Breast"	"26000"	"Oklahoma"	"40"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	253
+	"Breast"	"26000"	"Oregon"	"41"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	22
+	"Breast"	"26000"	"Oregon"	"41"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	17
+	"Breast"	"26000"	"Oregon"	"41"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1963
+	"Breast"	"26000"	"Oregon"	"41"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	47
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	663
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1498
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	684
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	55529
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	381
+	"Breast"	"26000"	"Oregon"	"41"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	543
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	55
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	260
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	3209
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	24
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	574
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	150
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	2526
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	21
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	18066
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	207
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	184698
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	1751
+	"Breast"	"26000"	"Pennsylvania"	"42"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1134
+	"Breast"	"26000"	"Rhode Island"	"44"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	74
+	"Breast"	"26000"	"Rhode Island"	"44"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	746
+	"Breast"	"26000"	"Rhode Island"	"44"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	85
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	48
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	205
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	592
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	16012
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	160
+	"Breast"	"26000"	"Rhode Island"	"44"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	66
+	"Breast"	"26000"	"South Carolina"	"45"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	50
+	"Breast"	"26000"	"South Carolina"	"45"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	824
+	"Breast"	"26000"	"South Carolina"	"45"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	90
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	86
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	523
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	17218
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	177
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	51826
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	435
+	"Breast"	"26000"	"South Carolina"	"45"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	264
+	"Breast"	"26000"	"South Dakota"	"46"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	46
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	581
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	53
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	41
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	10730
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	84
+	"Breast"	"26000"	"South Dakota"	"46"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	30
+	"Breast"	"26000"	"Tennessee"	"47"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	16
+	"Breast"	"26000"	"Tennessee"	"47"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	43
+	"Breast"	"26000"	"Tennessee"	"47"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	731
+	"Breast"	"26000"	"Tennessee"	"47"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	129
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	77
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	675
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	12772
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	137
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	76687
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	622
+	"Breast"	"26000"	"Tennessee"	"47"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	363
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	101
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	217
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	417
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	59454
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	346
+	"Breast"	"26000"	"Texas"	"48"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	336
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	925
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7587
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	58
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	34106
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	324
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	190557
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	1601
+	"Breast"	"26000"	"Texas"	"48"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	563
+	"Breast"	"26000"	"Utah"	"49"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	18
+	"Breast"	"26000"	"Utah"	"49"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	20
+	"Breast"	"26000"	"Utah"	"49"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1735
+	"Breast"	"26000"	"Utah"	"49"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	18
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	110
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	603
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	125
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	23747
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	163
+	"Breast"	"26000"	"Utah"	"49"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	21
+	"Breast"	"26000"	"Vermont"	"50"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	42
+	"Breast"	"26000"	"Vermont"	"50"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	54
+	"Breast"	"26000"	"Vermont"	"50"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	29
+	"Breast"	"26000"	"Vermont"	"50"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	10230
+	"Breast"	"26000"	"Vermont"	"50"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	87
+	"Breast"	"26000"	"Vermont"	"50"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	59
+	"Breast"	"26000"	"Virginia"	"51"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	93
+	"Breast"	"26000"	"Virginia"	"51"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	125
+	"Breast"	"26000"	"Virginia"	"51"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	2357
+	"Breast"	"26000"	"Virginia"	"51"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	390
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	140
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	3622
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	25
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	21330
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	220
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	85835
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	681
+	"Breast"	"26000"	"Virginia"	"51"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	1186
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	47
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	78
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	45
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	3212
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Male"	"M"	17
+	"Breast"	"26000"	"Washington"	"53"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	79
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1427
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	5699
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	21
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	2307
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	21
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	88688
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	623
+	"Breast"	"26000"	"Washington"	"53"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	847
+	"Breast"	"26000"	"West Virginia"	"54"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	58
+	"Breast"	"26000"	"West Virginia"	"54"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	124
+	"Breast"	"26000"	"West Virginia"	"54"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	756
+	"Breast"	"26000"	"West Virginia"	"54"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	27440
+	"Breast"	"26000"	"West Virginia"	"54"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	206
+	"Breast"	"26000"	"West Virginia"	"54"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	76
+	"Breast"	"26000"	"Wisconsin"	"55"	"Hispanic"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	18
+	"Breast"	"26000"	"Wisconsin"	"55"	"Hispanic"	"2135-2"	"Black or African American"	"2054-5"	"Female"	"F"	23
+	"Breast"	"26000"	"Wisconsin"	"55"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	1230
+	"Breast"	"26000"	"Wisconsin"	"55"	"Hispanic"	"2135-2"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	54
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	593
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	669
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	3578
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Male"	"M"	54
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	80388
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	819
+	"Breast"	"26000"	"Wisconsin"	"55"	"Non-Hispanic"	"2186-5"	"Other Races and Unknown combined"	"2131-1"	"Female"	"F"	310
+	"Breast"	"26000"	"Wyoming"	"56"	"Hispanic"	"2135-2"	"White"	"2106-3"	"Female"	"F"	264
+	"Breast"	"26000"	"Wyoming"	"56"	"Non-Hispanic"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	116
+	"Breast"	"26000"	"Wyoming"	"56"	"Non-Hispanic"	"2186-5"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	35
+	"Breast"	"26000"	"Wyoming"	"56"	"Non-Hispanic"	"2186-5"	"Black or African American"	"2054-5"	"Female"	"F"	24
+	"Breast"	"26000"	"Wyoming"	"56"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Female"	"F"	6614
+	"Breast"	"26000"	"Wyoming"	"56"	"Non-Hispanic"	"2186-5"	"White"	"2106-3"	"Male"	"M"	72
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2019 Incidence"
+"Query Parameters:"
+"Title: Breast_cancer_incidence_Sex_Race"
+"Leading Cancer Sites: Breast"
+"Year: 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019"
+"Group By: Leading Cancer Sites; States; Ethnicity; Race; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2019.html for more information."
+"---"
+"Query Date: Dec 27, 2022 12:06:54 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2019, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2021 submission; 2022"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2019.html on Dec 27, 2022 12:06:54 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the"
+"figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for"
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian"
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data"
+"are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data"
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Asian or"
+"Pacific Islander data are suppressed at the state and MSA level for residents of Illinois, and Kansas; </li><li> Race by"
+"ethnicity data are suppressed for state specific statistics for residents of Kansas, Illinois, and Massachusetts. </li></ul>"
+"</li></ol> States decide whether to suppress data for specific race and ethnicity categories. The suppression criteria may vary"
+"in previous releases of these data More information: http://wonder.cdc.gov/wonder/help/cancer-v2019.html#Confidentiality."
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"3. These states are missing data for the indicated year: Mississippi 1999-2002; Nevada 2018-2019; South Dakota 1999-2000."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"5. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
